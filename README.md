@@ -98,8 +98,8 @@ To learn more about React and Create React App, check out the following resource
 
 ## Contact
 Feel free to reach out if you have any questions or suggestions:
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **GitHub**: [your-username](https://github.com/manjeetdeveloper)
+- **Email**: your-manjeetkyp24@gmail.com
 
 ---
 Thank you for visiting this repository! 🚀
