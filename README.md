@@ -2,7 +2,7 @@
 
 Welcome to this repository! This project was bootstrapped with **Create React App**. Below you'll find a comprehensive guide to understanding and running the project.
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+
 
 ## Table of Contents
 - [About the Project](#about-the-project)
