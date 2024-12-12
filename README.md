@@ -99,7 +99,7 @@ To learn more about React and Create React App, check out the following resource
 ## Contact
 Feel free to reach out if you have any questions or suggestions:
 - **GitHub**: [Manjeet](https://github.com/manjeetdeveloper)
-- **Email**: your-manjeetkyp24@gmail.com
+- **Email**: manjeetkyp24@gmail.com
 
 ---
 Thank you for visiting this repository! 🚀
